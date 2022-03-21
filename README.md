@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Kaustuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustuk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustuk&layout=compact&hide=javascript,makefile)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kaustuk/kaustuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
