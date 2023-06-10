@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kaustuk. I'm Lead Engineer currently working for Samsung Ads where I am working on real-time, high-scale, low-latency DSP(demand side platform) bidder systems. Like to build products, explore and learn new tech. Enjoy contributing to open source.
+My name is Kaustuk. I'm Lead Engineer currently working for Samsung Ads where working on real-time, high-scale, low-latency DSP(demand side platform) bidder systems. Like to build products, explore and learn new tech. Enjoy contributing to open source.
 
 👐 Open for collaboration on projects
 
